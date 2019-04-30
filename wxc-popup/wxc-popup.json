@@ -1,0 +1,2 @@
+{
+  "component": true,    "usingComponents": {      "wxc-mask": "../wxc-mask/wxc-mask"    }  }

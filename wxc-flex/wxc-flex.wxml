@@ -1,0 +1,1 @@
+  <view bindtap="onClick" class="flex dir--{{dir}} main--{{main}} cross--{{cross}} wrap--{{wrap}}">    <slot></slot>  </view>

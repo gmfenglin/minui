@@ -1,0 +1,2 @@
+{
+  "component": true,    "usingComponents": {      "wxc-icon": "@minui/wxc-icon"    }  }

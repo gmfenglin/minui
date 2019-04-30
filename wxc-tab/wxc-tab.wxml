@@ -1,0 +1,1 @@
+  <view class="tab__panel" hidden="{{tabIndex !== activeKey}}">    <slot></slot>  </view>

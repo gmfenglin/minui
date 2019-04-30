@@ -1,0 +1,1 @@
+  <wxc-flex class="cc" main="center" cross="center">    <slot></slot>  </wxc-flex>

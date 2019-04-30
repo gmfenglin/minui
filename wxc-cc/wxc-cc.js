@@ -1,0 +1,1 @@
+Component({  behaviors: [],  properties: {},  data: {},  methods: {}})

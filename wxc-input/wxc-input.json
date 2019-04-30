@@ -1,0 +1,2 @@
+{
+  "component": true,    "usingComponents": {      "wxc-icon": "../wxc-icon/wxc-icon"    }  }
